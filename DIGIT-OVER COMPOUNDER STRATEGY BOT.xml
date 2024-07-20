@@ -17,7 +17,7 @@
     <field name="SYMBOL_LIST">1HZ10V</field>
     <field name="TRADETYPECAT_LIST">digits</field>
     <field name="TRADETYPE_LIST">overunder</field>
-    <field name="TYPE_LIST">DIGITOVER</field>
+    <field name="TYPE_LIST">bothDigitOVER&under</field>
     <field name="CANDLEINTERVAL_LIST">60</field>
     <field name="TIME_MACHINE_ENABLED">FALSE</field>
     <field name="RESTARTONERROR">TRUE</field>
